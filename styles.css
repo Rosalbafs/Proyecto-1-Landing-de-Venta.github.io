@@ -121,11 +121,11 @@ body {
 /*  X-Large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }*/
 ul {
-    background-color: rgba(94, 255, 45, 0.747);
-    padding-left: 3;
+    background-color: rgba(45, 255, 73, 0.986);
+    padding-left: 2;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px));
-    gap: 50px;
+    gap: 60px;
 }
 
 .description-text{
