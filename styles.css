@@ -137,13 +137,15 @@ ul {
 
 .description-img-flores {
     text-size-adjust: 42px; color: black; text-decoration: teal;text-size-adjust: 65px;
-    -ms-flex-direction: row;
     grid-template-rows:subgrid;
     text-align: center;
     background-color: hsl(113, 88%, 46%);
     font-size: 26px;
     border-block-color: red;
     background-color: darkgreen;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .description-list {
