@@ -4,11 +4,13 @@ body {
 
 #main {
     background-color: #30db0e;
+    
     }
 
 .main-name h1 {
     text-align: center;
     font-size: 4em;
+    
 }
 
 .main-section h2 {
