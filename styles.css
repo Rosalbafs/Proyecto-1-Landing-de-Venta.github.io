@@ -1,3 +1,13 @@
+header {
+    align-content: center;
+    font-family: 'Montserrat', Gill Sans Extrabold;
+    background-color: #30db0e;
+    text-size-adjust: 60px;
+    text-align: center;
+    display: list-item;
+}
+ 
+
 body {
     font-family: 'Montserrat', Gill Sans Extrabold;
 }
@@ -152,3 +162,37 @@ ul {
     border: 2px;
 }
 
+.description-img-rosas{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-img-alcatraces{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-img-tulipanes{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-img-margaritas{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-img-crisantemos{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-img-girasoles{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-img-jazmines{
+    display: flex;
+    flex-direction: column;
+}
