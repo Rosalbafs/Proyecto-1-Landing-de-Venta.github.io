@@ -2,11 +2,10 @@ header {
     align-content: center;
     font-family: 'Montserrat', Gill Sans Extrabold;
     background-color: #30db0e;
-    text-size-adjust: 60px;
+    text-size-adjust: 40px;
     text-align: center;
     display: list-item;
-}
- 
+    }
 
 body {
     font-family: 'Montserrat', Gill Sans Extrabold;
