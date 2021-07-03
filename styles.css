@@ -5,7 +5,12 @@ header {
     text-size-adjust: 40px;
     text-align: center;
     display: list-item;
-    }
+        }
+
+.logo {
+    width: 400px;
+}        
+
 
 body {
     font-family: 'Montserrat', Gill Sans Extrabold;
